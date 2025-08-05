@@ -1,4 +1,4 @@
-﻿namespace ConsoleRPG.TrafficLights.States
+﻿namespace StatePattern.TrafficLights.States
 {
     internal abstract class TrafficLightState : ITrafficLightState
     {

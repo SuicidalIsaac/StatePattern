@@ -1,4 +1,4 @@
-﻿namespace ConsoleRPG.TrafficLights.States
+﻿namespace StatePattern.TrafficLights.States
 {
     public class TrafficLightActions
     {

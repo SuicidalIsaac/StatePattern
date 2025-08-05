@@ -1,4 +1,4 @@
-﻿namespace ConsoleRPG.TrafficLights.States.ConcreteState
+﻿namespace StatePattern.TrafficLights.States.ConcreteState
 {
     internal class RedState : TrafficLightState
     {

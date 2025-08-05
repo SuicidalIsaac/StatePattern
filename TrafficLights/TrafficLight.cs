@@ -1,7 +1,7 @@
-﻿using ConsoleRPG.TrafficLights.States;
-using ConsoleRPG.TrafficLights.States.ConcreteState;
+﻿using StatePattern.TrafficLights.States;
+using StatePattern.TrafficLights.States.ConcreteState;
 
-namespace ConsoleRPG.TrafficLights
+namespace StatePattern.TrafficLights
 {
     internal class TrafficLight
     {

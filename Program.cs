@@ -1,7 +1,7 @@
-﻿using ConsoleRPG.TrafficLights;
-using ConsoleRPG.TrafficLights.States;
+﻿using StatePattern.TrafficLights;
+using StatePattern.TrafficLights.States;
 
-namespace ConsoleRPG
+namespace StatePattern
 {
     public class Program
     {
